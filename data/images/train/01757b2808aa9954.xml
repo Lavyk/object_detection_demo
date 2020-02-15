@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>01757b2808aa9954.jpg</filename>
+	<path>C:\Users\Super i3\Documents\Lavyk\Python\object_detection_demo\data\images\train\01757b2808aa9954.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>678</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Placas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>900</xmin>
+			<ymin>526</ymin>
+			<xmax>966</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>
